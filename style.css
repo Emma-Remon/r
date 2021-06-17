@@ -1,0 +1,12 @@
+p1 
+{
+    font-family: fantasy;
+    font-size: 16px; 
+    text-align: center;
+    color: hotpink;
+}
+body 
+
+{
+   background: linear-gradient(pink 100%, purple 0);
+}
